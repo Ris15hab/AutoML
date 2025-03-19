@@ -46,3 +46,5 @@ if choice == "Machine Learning":
 if choice == "Download":
     with open("best_model.pkl", 'rb') as f: 
         st.download_button("Download Model", f, "best_model_test.pkl")
+
+
