@@ -36,7 +36,7 @@ Unlike conventional AutoML systems that rely heavily on trial-and-error searches
 <p align="center"><img width="776" height="517"alt="Screenshot 2025-08-25 at 8 27 26 PM" src="https://github.com/user-attachments/assets/cdb362a6-9d02-46b0-9741-7d4439f637a6" /></p>
 <p align="center"><img width="776" height="517" alt="Screenshot 2025-08-25 at 8 27 40 PM" src="https://github.com/user-attachments/assets/2dd24046-be6c-4967-b331-ff91d7c331c0" /></p>
 <p align="center"><img width="776" height="517" alt="Screenshot 2025-08-25 at 8 28 26 PM" src="https://github.com/user-attachments/assets/bd79d659-4a23-44a4-9bc0-3e914b90b275" /></p>
-<p align="center"><img width="1440" height="842" alt="Screenshot 2025-08-25 at 8 30 22 PM" src="https://github.com/user-attachments/assets/9001d111-6196-4f03-bf01-0c23b5fd0a1c" /></p>
+<p align="center"><img width="776" height="517" alt="Screenshot 2025-08-25 at 8 30 22 PM" src="https://github.com/user-attachments/assets/9001d111-6196-4f03-bf01-0c23b5fd0a1c" /></p>
 
 ## ⚙️ Installation & Setup
 
