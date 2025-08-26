@@ -42,7 +42,7 @@ Unlike conventional AutoML systems that rely heavily on trial-and-error searches
 
 Clone the Repository
 ```bash
-git clone https://github.com/Ris15hab/AutoML-MetaDataset.git
+https://github.com/Ris15hab/AutoML.git
 cd AutoML-MetaDataset
 ```
 
