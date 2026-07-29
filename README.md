@@ -7,6 +7,7 @@ Unlike conventional AutoML systems that rely heavily on trial-and-error searches
 <p align="center"><img width="776" height="517" alt="Screenshot 2025-08-25 at 8 15 45 PM" src="https://github.com/user-attachments/assets/16a66c7f-cfca-4c1f-8f8b-53b41584964f" /></p>
 
 ## 🚀 Key Features
+
 - Meta-Dataset Repository
   - Curated from OpenML with 187 classification & 94 regression datasets.
   - Captures dataset size, feature types, distributions, class imbalance, and historical model performance
@@ -27,12 +28,14 @@ Unlike conventional AutoML systems that rely heavily on trial-and-error searches
   - Packages trained models into ready-to-use inference scripts.
 
 ## 🛠️ Tech Stack
+
 - Frontend: Streamlit (for dataset upload & interactive exploration)
 - Backend: Python (Pandas, NumPy, Scikit-Learn)
 - Meta-Learning: KNN-based similarity for dataset-to-model mapping
 - NLP & Semantic Processing: SpaCy, WordNet, FuzzyWuzzy
 
 ## 📸 Demonstrations
+
 <p align="center"><img width="776" height="517"alt="Screenshot 2025-08-25 at 8 27 26 PM" src="https://github.com/user-attachments/assets/cdb362a6-9d02-46b0-9741-7d4439f637a6" /></p>
 <p align="center"><img width="776" height="517" alt="Screenshot 2025-08-25 at 8 27 40 PM" src="https://github.com/user-attachments/assets/2dd24046-be6c-4967-b331-ff91d7c331c0" /></p>
 <p align="center"><img width="776" height="517" alt="Screenshot 2025-08-25 at 8 28 26 PM" src="https://github.com/user-attachments/assets/bd79d659-4a23-44a4-9bc0-3e914b90b275" /></p>
@@ -41,17 +44,20 @@ Unlike conventional AutoML systems that rely heavily on trial-and-error searches
 ## ⚙️ Installation & Setup
 
 Clone the Repository
+
 ```bash
-https://github.com/Ris15hab/AutoML.git
+https://github.com/ansh-0205/Auto-ML.git
 cd AutoML-MetaDataset
 ```
 
 Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
 Run the Streamlit App
+
 ```bash
 streamlit run app.py
 ```
@@ -59,6 +65,7 @@ streamlit run app.py
 Upload your dataset (CSV format) and follow the interactive workflow.
 
 # 📊 Performance
+
 - Meta-Dataset Scale: 187 classification + 94 regression datasets.
 - Imputation Performance:
   - MCAR → Mean/Median (94.2% detection accuracy)
