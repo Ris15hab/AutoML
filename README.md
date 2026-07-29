@@ -46,7 +46,7 @@ Unlike conventional AutoML systems that rely heavily on trial-and-error searches
 Clone the Repository
 
 ```bash
-https://github.com/ansh-0205/Auto-ML.git
+https://github.com/Ris15hab/AutoML.git
 cd AutoML-MetaDataset
 ```
 
